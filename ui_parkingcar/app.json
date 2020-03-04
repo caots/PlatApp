@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ui_project_travel_article_app",
-    "slug": "ui_project_travel_article_app",
+    "name": "ui_parkingcar",
+    "slug": "ui_parkingcar",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
