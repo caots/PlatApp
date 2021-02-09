@@ -66,7 +66,7 @@ export default class MainApp extends Component {
     render(){
 
         if (!this.state.isLoadingComplete) {
-            return (
+            return (  
                 <AppLoading
                     startAsync={this.handleResourcesAsync}
                     onError={error => console.warn(error)}
